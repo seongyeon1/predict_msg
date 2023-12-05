@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2014/07/22 08:47:18,166,울산광역시 울주군,1215,폭염주의보 발령중! 야외활동 자제해주시고 노약자께서는 주변 무더위쉼터를 이용하시기 바랍니다.,cbs,울주군 재난안전대책본부,,,"[('노약자께서는 주변 무더위쉼터를', 0.4756)]"

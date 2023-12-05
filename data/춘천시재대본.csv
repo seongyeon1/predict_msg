@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/08/03 11:11:38,15,강원도 춘천시,42049,"현재 지역 곳곳에 많은 비가 내립니다. 산사태·침수 등 위험지역 대피, 외출자제 등 안전에 주의바랍니다.",cbs,춘천시재대본,,,"[('침수 위험지역 대피 외출자제', 0.6719)]"

@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/08/06 06:36:49,157,서울특별시 용산구,42507,팔당댐 방류량 증가에 따른 한강수위 상승으로 사고발생의 우려가 높으니 한강 출입을 자제하여 주시기 바랍니다.,cbs,용산구재난안전대책본부,,,"[('높으니 한강 출입을', 0.6847)]"

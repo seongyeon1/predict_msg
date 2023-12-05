@@ -1,0 +1,4 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2021/10/06 14:32:28,75,경상북도 경산시,125300,"외국인안내 October 6th~7th, Foreigners should be tested and vaccinated for COVID-19",cbs,Gyeongsan,,,"[('7th foreigners', 0.3777)]"
+2021/09/26 18:33:52,75,경상북도 경산시,123990,외국인안내 Foreigners who have visited other regions should be tested for COVID-19.,cbs,Gyeongsan,,,"[('visited regions', 0.4189)]"
+2021/05/20 15:54:16,75,경상북도 경산시,106226,To visitor NEWWORLD MART 5.17~20(hayangeup hayangro 27gil4)Take the corona test,cbs,Gyeongsan,hayangeup hayangro 27gil4,,"[('hayangeup hayangro 27gil4', 0.3677)]"

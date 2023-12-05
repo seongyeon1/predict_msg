@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/08/10 15:10:32,81,경상북도 문경시,43851,"제5호 태풍 장미의 영향으로 강풍 및 많은 비가 예상되니, 외출자제 및 하천,저지대,산사태 등 위험지역 접근을 금하여 주시기 바랍니다.",cbs,문경시 재난안전대책본부,,,"[('위험지역 접근을 금하여', 0.6867)]"

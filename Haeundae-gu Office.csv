@@ -1,0 +1,5 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/07/05 20:01:25,135,부산광역시 해운대구,39724,the beach. And prohibit fireworks in Gunam-ro and the beach.,cbs,Haeundae-gu Office,,,"[('gunam ro', 0.2665)]"
+2020/07/05 20:00:53,135,부산광역시 해운대구,39723,"Observe the quarantine rules, such as wearing a mask at Gunam-ro and",cbs,Haeundae-gu Office,,,"[('rules wearing', 0.2977)]"
+2020/07/05 14:20:58,135,부산광역시 해운대구,39682,the beach. And prohibit fireworks in Gunam-ro and the beach.,cbs,Haeundae-gu Office,,,"[('gunam ro', 0.2665)]"
+2020/07/05 14:20:44,135,부산광역시 해운대구,39681,"Observe the quarantine rules, such as wearing a mask at Gunam-ro and",cbs,Haeundae-gu Office,,,"[('rules wearing', 0.2977)]"

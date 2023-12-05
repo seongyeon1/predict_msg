@@ -1,0 +1,3 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2021/12/05 15:06:07,176,인천광역시 연수구,132342,"Get COVIDtest at MariParkInspectionCenter who visited""Buffet""(11.29,12.1)by16:00today",cbs,연수구,"11.29,12.1",,"[('11 29 12 by16', 0.1601)]"
+2020/09/16 17:26:15,176,인천광역시 연수구,57249,"9.3~9.14(8일, 9일 제외) 옥련동 월드마트 정육코너 이용자는 조속히 연수구보건소에서 코로나 검사하시기 바랍니다. ☎ 749-8170, 8173",cbs,연수구,"8일, 9일 제외",,"[('연수구보건소에서 코로나 검사하시기', 0.3927)]"

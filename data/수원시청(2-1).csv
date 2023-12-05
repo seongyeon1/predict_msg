@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/07/04 21:01:32,34,경기도 수원시,39618,"해피로PC 인계점(인계동) 6.25(18:20~23:20), 6.26(19:20~21:00), 6.28(20:20~22:50),",cbs,수원시청(2-1),2-1,,"[('26 19 20', 0.2713)]"

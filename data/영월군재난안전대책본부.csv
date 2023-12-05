@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2013/07/15 16:12:38,"10,2847","강원도 영월군,강원도 영월군",782,"7월15일16:00 영월대교지역 홍수주의보 발령,하천,범람 등 피해우려,유의하시기 바랍니다.",cbs,영월군재난안전대책본부,,,"[('범람 피해우려', 0.5534)]"

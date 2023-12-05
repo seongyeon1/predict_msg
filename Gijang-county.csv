@@ -1,0 +1,11 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2021/01/04 18:59:43,122,부산광역시 기장군,80995,Follow COVID-19 prevention rules including wearing masks.,cbs,Gijang-county,,,"[('rules including', 0.2859)]"
+2021/01/04 18:59:28,122,부산광역시 기장군,80994,Level 2.5 social distancing enforcement is extended until 17 Jan.,cbs,Gijang-county,,,"[('17 jan', 0.2541)]"
+2021/01/04 14:00:30,122,부산광역시 기장군,80846,"Follow COVID-19 prevention rules including wearing masks,",cbs,Gijang-county,,,"[('rules including', 0.29)]"
+2021/01/04 14:00:16,122,부산광역시 기장군,80845,Level 2.5 social distancing enforcement is extended until 17 Jan.,cbs,Gijang-county,,,"[('17 jan', 0.2541)]"
+2021/01/04 10:02:06,122,부산광역시 기장군,80754,Follow COVID-19 prevention rules including wearing masks.,cbs,Gijang-county,,,"[('rules including', 0.2859)]"
+2021/01/04 10:01:52,122,부산광역시 기장군,80753,Level 2.5 social distancing enforcement is extended until 17 Jan.,cbs,Gijang-county,,,"[('17 jan', 0.2541)]"
+2021/01/03 19:04:36,122,부산광역시 기장군,80669,Follow COVID-19 prevention rules including wearing masks.,cbs,Gijang-county,,,"[('rules including', 0.2859)]"
+2021/01/03 19:04:01,122,부산광역시 기장군,80668,Level 2.5 social distancing enforcement is extened until 17 Jan.,cbs,Gijang-county,,,"[('extened 17', 0.148)]"
+2021/01/03 14:49:21,122,부산광역시 기장군,80502,Follow COVID-19 prevention rules including wearing masks.,cbs,Gijang-county,,,"[('rules including', 0.2859)]"
+2021/01/03 14:49:04,122,부산광역시 기장군,80501,Level 2.5 social distancing enforcement is extened until 17 Jan.,cbs,Gijang-county,,,"[('extened 17', 0.148)]"

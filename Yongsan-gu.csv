@@ -1,0 +1,6 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2021/09/14 17:34:33,157,서울특별시 용산구,122180,외국인대상안내_Vistors to 'Hyundai Sauna' on 9/3~9/11 should be tested for COVID19.,cbs,Yongsan-gu,,,"[('11 tested', 0.3162)]"
+2021/07/03 13:40:59,157,서울특별시 용산구,110787,"(외국인대상안내) “Shenanigans BAR” visitors on 6/26, 6/27, 6/30 take the COVID test.",cbs,Yongsan-gu,외국인대상안내,,"[('26 27', 0.2279)]"
+2021/07/03 13:18:13,157,서울특별시 용산구,110783,외국인대상안내_Vistors to 'Night sound bar' on 6/29 should be tested for COVID19.,cbs,Yongsan-gu,,,"[('29 tested', 0.2436)]"
+2021/07/02 16:58:50,157,서울특별시 용산구,110696,외국인대상안내_Vistors to 'Shenanigans' on 6/26~6/27 should be tested for COVID19.,cbs,Yongsan-gu,,,"[('26 27', 0.1882)]"
+2021/06/07 14:22:45,157,서울특별시 용산구,108489,외국인대상안내_Vistors to Islamic Book Center on 6/2~4 should be tested for COVID19.,cbs,Yongsan-gu,,,"[('book center', 0.1748)]"

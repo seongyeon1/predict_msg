@@ -1,0 +1,4 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2021/03/16 14:31:26,119,부산광역시 전체,98066,'Life in Busan' APP(iOS version) is available from April 2021.,cbs,Busan City Hall,iOS version,,"[('available april', 0.3349)]"
+2021/03/16 14:16:48,119,부산광역시 전체,98061,Please download 'Life in Busan' App(Android/iOS) for Disaster Alerts.,cbs,Busan City Hall,Android/iOS,,"[('android ios', 0.3931)]"
+2021/03/16 14:00:38,119,부산광역시 전체,98057,Please download 'Emergency Ready' App(Android/iOS) for Disaster Alerts.,cbs,Busan City Hall,Android/iOS,,"[('app android', 0.3987)]"

@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/08/03 05:48:41,136,서울특별시 전체,42003,8.3(월) 05:30분 한강 및 중랑천 수위상승으로 동부간선도로 전면 교통통제 중이오니 우회바랍니다.,cbs,풍수해시재대본,월,,"[('30분 한강', 0.4769)]"

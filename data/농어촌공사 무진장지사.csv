@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/08/25 18:00:40,213,전라북도 장수군,49350,저수지 등 수리시설 취약지점 발견 시 신고하여 주시기 바랍니다. 063-350-7050,cbs,농어촌공사 무진장지사,,,"[('주시기 바랍니다 063', 0.4194)]"

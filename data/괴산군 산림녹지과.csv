@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/07/30 07:59:40,239,충청북도 괴산군,41664,"연풍, 청천, 칠성에 산사태경보가 발령되었으니 인근 주민들께서는 산림 등 위험지역주변 접근금지 및 안전한 장소로 대피하여 주시기 바랍니다.",cbs,괴산군 산림녹지과,,,"[('연풍 청천', 0.7465)]"

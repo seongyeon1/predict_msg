@@ -1,0 +1,10 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/12/30 15:38:57,135,부산광역시 해운대구,79162,Please refrain from visiting Jangsan trail from 12:00 31/Dec to 09:00 1/Jan,cbs,Haeundaegu,,,"[('dec 09 00', 0.2433)]"
+2020/12/30 15:38:38,135,부산광역시 해운대구,79161,Green Railway will be closed from 19:00 31/Dec to 09:00 1/Jan,cbs,Haeundaegu,,,"[('00 jan', 0.2122)]"
+2020/12/30 15:38:23,135,부산광역시 해운대구,79160,Public car parks are closed from 12:00 31/Dec to 09:00 1/Jan,cbs,Haeundaegu,,,"[('12 00 31 dec', 0.2429)]"
+2020/12/30 15:37:49,135,부산광역시 해운대구,79159,Pojangmachas are only available for take out or delivery after 21:00,cbs,Haeundaegu,,,"[('21 00', 0.1882)]"
+2020/12/30 15:37:21,135,부산광역시 해운대구,79158,will be closed between 00:00 24/Dec to 00:00 3/Jan.,cbs,Haeundaegu,,,"[('00 00', 0.1878)]"
+2020/12/30 15:36:52,135,부산광역시 해운대구,79156,"Haewoljeong, Cheongsapo Skywalk, Mongdol Beach, Songiljeong, Haemaru",cbs,Haeundaegu,,,"[('skywalk mongdol', 0.5223)]"
+2020/12/30 15:36:15,135,부산광역시 해운대구,79153,the above are closed between 12:00 31/Dec to 09:00 1/Jan,cbs,Haeundaegu,,,"[('00 31', 0.212)]"
+2020/12/30 15:35:57,135,부산광역시 해운대구,79152,"the sites impacted are: Haeundae/Songjeong Beach, Dongbaekseom, Jukdo Park",cbs,Haeundaegu,,,"[('impacted haeundae', 0.4092)]"
+2020/12/30 15:35:16,135,부산광역시 해운대구,79151,Tourist spots for Haemaji will be closed to minimize the spread of the virus,cbs,Haeundaegu,,,"[('minimize spread', 0.1667)]"

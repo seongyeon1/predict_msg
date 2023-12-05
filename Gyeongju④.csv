@@ -1,0 +1,4 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2021/04/21 09:49:37,76,경상북도 경주시,102815,"(No.260, Gyeongbuk 70ja2478) ※Screening Recommendation",cbs,Gyeongju④,"No.260, Gyeongbuk 70ja2478",,"[('gyeongbuk 70ja2478', 0.5544)]"
+2021/03/22 17:31:06,76,경상북도 경주시,99254,"If you used one of seat No. 75~78, contact 779-8643(Gyeongju Health Center).",cbs,Gyeongju④,Gyeongju Health Center,,"[('75 78 contact', 0.3293)]"
+2021/03/19 20:32:30,76,경상북도 경주시,98745,Hanil Express/Gyeonggi 70ba5019/Wed.3.10/17:00~20:30/ screening recommendation,cbs,Gyeongju④,,,"[('wed 10 17', 0.284)]"

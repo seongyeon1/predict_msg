@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/07/30 08:35:49,115,대전광역시 동구,41673,천동 파출소 앞 도로 침수로 우회바랍니다.,cbs,대전동구청,,,"[('침수로 우회바랍니다', 0.7666)]"

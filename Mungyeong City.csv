@@ -1,0 +1,6 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/05/14 11:10:38,81,경상북도 문경시,35346,please refrain from going out and consult the health center.(054-550-8208),cbs,Mungyeong City,054-550-8208,,"[('550 8208', 0.0803)]"
+2020/05/14 11:10:02,81,경상북도 문경시,35345,"can have anonymous tests regardless of symptoms,",cbs,Mungyeong City,,,"[('regardless symptoms', 0.4543)]"
+2020/05/14 11:09:33,81,경상북도 문경시,35344,"Visitors to clubs and bars in Itaewon, Seoul from April 24 and May 6,",cbs,Mungyeong City,,,"[('april 24', 0.3912)]"
+2020/05/11 14:05:30,81,경상북도 문경시,35000,refrain from going out and consult the public health center(054-550-8208),cbs,Mungyeong City,054-550-8208,,"[('054 550', 0.1131)]"
+2020/05/11 14:04:56,81,경상북도 문경시,34999,"For those who have visited Itawon, Seoul, from April 29 to May 6",cbs,Mungyeong City,,,"[('april 29', 0.3671)]"

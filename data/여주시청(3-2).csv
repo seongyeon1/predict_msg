@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/07/16 21:12:25,41,경기도 여주시,40780,확진자 이동동선에 따라 소독과 선별검사 완료. 현재 이천의료원 이송조치 후 치료중. 자가격리자는 모두 보건소에서 철저히 관리중입니다.,cbs,여주시청(3-2),3-2,,"[('보건소에서 철저히 관리중입니다', 0.6933)]"

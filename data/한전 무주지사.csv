@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/08/26 15:09:13,207,전라북도 무주군,49839,"태풍'바비' 관련 인명피해 예방을 위해 넘어진 전신주, 끊어진 전선 현장 등을 발견시 접근하지 마시고 한전에 연락하여 주시기 바랍니다.(☎123)",cbs,한전 무주지사,☎123,,"[('현장 등을 발견시', 0.6255)]"

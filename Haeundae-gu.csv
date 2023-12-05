@@ -1,0 +1,7 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/10/30 16:11:55,135,부산광역시 해운대구,62874,"If you have suspected symptoms, please refrain from attending the events.",cbs,Haeundae-gu,,,"[('refrain attending', 0.3992)]"
+2020/10/30 16:11:34,135,부산광역시 해운대구,62873,Have a safe Halloween with the COVID-19 safety rules!,cbs,Haeundae-gu,,,"[('19 safety', 0.3943)]"
+2020/10/29 15:20:12,135,부산광역시 해운대구,62748,"If you have suspected symptoms, please refrain from attending the events.",cbs,Haeundae-gu,,,"[('refrain attending', 0.3992)]"
+2020/10/29 15:19:52,135,부산광역시 해운대구,62747,Have a safe Halloween with the COVID-19 safety rules!,cbs,Haeundae-gu,,,"[('19 safety', 0.3943)]"
+2020/10/28 17:05:33,135,부산광역시 해운대구,62638,"If you have suspected symptoms, please refrain from attending the events.",cbs,Haeundae-gu,,,"[('refrain attending', 0.3992)]"
+2020/10/28 17:05:07,135,부산광역시 해운대구,62637,Have a safe Halloween with the COVID-19 safety rules!,cbs,Haeundae-gu,,,"[('19 safety', 0.3943)]"

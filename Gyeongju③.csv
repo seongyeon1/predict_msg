@@ -1,0 +1,7 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2021/04/21 09:49:24,76,경상북도 경주시,102814,▲Fri.4.16/10:02~10:40 Uiduk samsung apt station → Gyeongju Station,cbs,Gyeongju③,,,"[('40 uiduk', 0.2433)]"
+2021/04/18 15:59:32,76,경상북도 경주시,102557,"17:14~18:16/ Cocomong Kids Lounge(182-29,Bomun-ro) ※Screening Recommendation",cbs,Gyeongju③,"182-29,Bomun-ro",,"[('ro screening recommendation', 0.4009)]"
+2021/03/29 17:11:03,76,경상북도 경주시,100709,Those who were there at the time need to get tested.,cbs,Gyeongju③,,,"[('time need', 0.2653)]"
+2021/03/22 17:30:36,76,경상북도 경주시,99253,Onnuri PC Bang/37Hwangseong-ro(B1)/Fri.3.19/16:38~20:15,cbs,Gyeongju③,B1,,"[('19 16 38', 0.3706)]"
+2021/03/19 20:32:21,76,경상북도 경주시,98744,Gyeongju Express Bus Terminal → Seoul Express Bus Terminal,cbs,Gyeongju③,,,"[('express bus', 0.482)]"
+2021/03/06 20:46:33,76,경상북도 경주시,96358,Special Exhibition Gallery 14:08~15:00 ※Screening Recommendation,cbs,Gyeongju③,,,"[('14 08 15 00', 0.2)]"

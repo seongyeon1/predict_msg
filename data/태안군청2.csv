@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/08/18 17:33:01,236,충청남도 태안군,45979,"증상 유무 관계없이 8.20.(목)까지 태안군 보건의료원 검사의무. 위반시 감염병예방법 의거 200만원 이하 벌금, 확진자 발생시 구상권 청구 예정.",cbs,태안군청2,목,,"[('확진자 발생시 구상권 청구', 0.6146)]"

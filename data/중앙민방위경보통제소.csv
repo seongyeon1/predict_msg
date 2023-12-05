@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2015/12/16 11:16:34,119,부산광역시 전체,1898,실제 해제 발령,cbs,중앙민방위경보통제소,,,"[('실제 해제', 0.7344)]"

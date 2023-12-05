@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2020/08/23 17:25:54,11,강원도 원주시,48504,코로나19 확산 차단을 위한 마스크 착용 의무화 행정명령 발령. 실내외를 막론하고 비말감염 차단을 위해 반드시 마스크 착용 바랍니다.,cbs,원주시장 행정명령,,,"[('착용 의무화', 0.6766)]"

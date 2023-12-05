@@ -1,0 +1,2 @@
+create_date,location_id,location_name,md101_sn,msg,send_platform,cast,missing,age,keyword
+2016/07/30 12:59:45,41,경기도 여주시,2126,"안전안내. 7.30일 현재 여주지역 강한 비가 내리니, 계곡, 하천 물놀이객은 안전 대피 및 고립시 119에 신고하세요.",cbs,지자체,,,"[('내리니 계곡', 0.577)]"
