@@ -25,9 +25,11 @@ def predict_cluster(new_data):
 
 # streamlit 페이지 구성
 def main():
-    st.title("재난문자 유형 예측")
-    st.header("재난문자의 유형을 예측합니다.")
-    st.info('입력 예시 : \n오늘 19:00경 금정구 두구동 인근에서 발생한 화재로 인해 연기 및 타는 냄새가 날 수 있으니 인근 주민은 안전에 유의하시길 바랍니다.\n북구에서 실종된 강대옥씨(남, 74세)를 찾습니다 - 173cm, 50kg, 검정잠바, 검정바지, 남색운동화 vo.la/njkro / ☎182")
+    st.title(":male-firefighter:재난문자 유형 예측:male-firefighter:")
+    st.header("재난문자의 유형을 예측합니다.")
+    st.subheader(":arrow_right:입력 예시 : ")
+    st.write("- 오늘 19:00경 금정구 두구동 인근에서 발생한 화재로 인해 연기 및 타는 냄새가 날 수 있으니 인근 주민은 안전에 유의하시길 바랍니다.")
+    st.write("- 북구에서 실종된 강대옥씨(남, 74세)를 찾습니다 - 173cm, 50kg, 검정잠바, 검정바지, 남색운동화")
 
     # 예측하고자 하는 새로운 데이터 입력 받기
     new_data = st.text_area("새로운 데이터를 입력하세요.")
